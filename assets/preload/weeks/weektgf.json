@@ -1,8 +1,7 @@
 {
 	"songs": [
-		["New-Document", "txt", [146, 113, 253]],
-		["System-Captured", "txt", [146, 113, 253]],
-		["PC-Takeover", "txt", [146, 113, 253]]
+		["blue-pokemon-encore", "tgfsonic", [146, 113, 253]],
+		["the-awesome-encore", "shadow", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
@@ -14,7 +13,7 @@
 
 	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week Documic",
+	"weekName": "Week Freeplatyyyty",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
