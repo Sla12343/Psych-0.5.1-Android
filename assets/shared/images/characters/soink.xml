@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soink.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="soinkALTIDLE0000" x="3" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0001" x="1183" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0002" x="2363" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0003" x="3543" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0004" x="4723" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0005" x="5903" y="3" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0006" x="3" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0007" x="1183" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0008" x="2363" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0009" x="3543" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0010" x="4723" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0011" x="5903" y="1265" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0012" x="3" y="2527" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0013" x="1183" y="2527" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0014" x="2363" y="2527" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0015" x="3543" y="2527" width="1177" height="1259"/>
+	<SubTexture name="soinkALTIDLE0016" x="4723" y="2527" width="1177" height="1259"/>
+	<SubTexture name="soinkDOWN0000" x="5903" y="2527" width="887" height="850"/>
+	<SubTexture name="soinkDOWN0001" x="5903" y="2527" width="887" height="850"/>
+	<SubTexture name="soinkDOWN0002" x="6793" y="2527" width="887" height="850"/>
+	<SubTexture name="soinkDOWN0003" x="3" y="3789" width="887" height="850"/>
+	<SubTexture name="soinkDOWN0004" x="893" y="3789" width="887" height="850"/>
+	<SubTexture name="soinkDOWN0005" x="1783" y="3789" width="887" height="850"/>
+	<SubTexture name="soinkIDLE0000" x="2673" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0001" x="2673" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0002" x="3488" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0003" x="4303" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0004" x="5118" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0005" x="5933" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0006" x="6748" y="3789" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0007" x="3" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0008" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0009" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0010" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0011" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0012" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkIDLE0013" x="818" y="4815" width="812" height="1023"/>
+	<SubTexture name="soinkLEFT0000" x="1633" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkLEFT0001" x="1633" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkLEFT0002" x="2783" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkLEFT0003" x="3933" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkLEFT0004" x="5083" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkLEFT0005" x="6233" y="4815" width="1147" height="1063"/>
+	<SubTexture name="soinkRIGHT0000" x="3" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkRIGHT0001" x="963" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkRIGHT0002" x="1923" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkRIGHT0003" x="2883" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkRIGHT0004" x="3843" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkRIGHT0005" x="4803" y="5881" width="957" height="960"/>
+	<SubTexture name="soinkUP0000" x="5763" y="5881" width="831" height="1015"/>
+	<SubTexture name="soinkUP0001" x="6597" y="5881" width="831" height="1015"/>
+	<SubTexture name="soinkUP0002" x="3" y="6899" width="831" height="1015"/>
+	<SubTexture name="soinkUP0003" x="837" y="6899" width="831" height="1015"/>
+	<SubTexture name="soinkUP0004" x="1671" y="6899" width="831" height="1015"/>
+	<SubTexture name="soinkUP0005" x="2505" y="6899" width="831" height="1015"/>
+</TextureAtlas>

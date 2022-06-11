@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DocumicPhase2.png"><SubTexture name="DocumicPhase2 idle0000" x="3181" y="0" width="773" height="1227" frameX="-390" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0001" x="3181" y="0" width="773" height="1227" frameX="-390" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0002" x="1553" y="0" width="771" height="1275" frameX="-392" frameY="-257" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0003" x="1553" y="0" width="771" height="1275" frameX="-392" frameY="-257" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0004" x="781" y="0" width="772" height="1287" frameX="-391" frameY="-259" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0005" x="781" y="0" width="772" height="1287" frameX="-391" frameY="-259" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0006" x="0" y="0" width="781" height="1308" frameX="-382" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0007" x="0" y="0" width="781" height="1308" frameX="-382" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0008" x="3954" y="1186" width="780" height="1181" frameX="-383" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0009" x="3954" y="1186" width="780" height="1181" frameX="-383" frameY="-256" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0010" x="806" y="2580" width="781" height="1196" frameX="-382" frameY="-255" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 idle0011" x="806" y="2580" width="781" height="1196" frameX="-382" frameY="-255" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0000" x="0" y="3803" width="803" height="1168" frameX="-520" frameY="-303" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0001" x="0" y="3803" width="803" height="1168" frameX="-520" frameY="-303" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0002" x="803" y="3803" width="795" height="1168" frameX="-491" frameY="-301" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0003" x="803" y="3803" width="795" height="1168" frameX="-491" frameY="-301" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0004" x="3954" y="0" width="790" height="1186" frameX="-489" frameY="-293" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0005" x="3954" y="0" width="790" height="1186" frameX="-489" frameY="-293" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0006" x="1587" y="2580" width="786" height="1189" frameX="-487" frameY="-290" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 right0007" x="1587" y="2580" width="786" height="1189" frameX="-487" frameY="-290" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0000" x="0" y="2580" width="806" height="1223" frameX="-455" frameY="-218" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0001" x="0" y="2580" width="806" height="1223" frameX="-455" frameY="-218" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0002" x="2373" y="2580" width="803" height="1189" frameX="-443" frameY="-217" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0003" x="2373" y="2580" width="803" height="1189" frameX="-443" frameY="-217" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0004" x="4744" y="0" width="793" height="1171" frameX="-423" frameY="-233" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0005" x="4744" y="0" width="793" height="1171" frameX="-423" frameY="-233" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0006" x="4744" y="1171" width="789" height="1137" frameX="-423" frameY="-231" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 up0007" x="4744" y="1171" width="789" height="1137" frameX="-423" frameY="-231" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0000" x="1746" y="1308" width="865" height="1265" frameX="-300" frameY="-218" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0001" x="1746" y="1308" width="865" height="1265" frameX="-300" frameY="-218" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0002" x="2324" y="0" width="857" height="1275" frameX="-312" frameY="-230" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0003" x="2324" y="0" width="857" height="1275" frameX="-312" frameY="-230" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0004" x="879" y="1308" width="867" height="1270" frameX="-320" frameY="-238" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0005" x="879" y="1308" width="867" height="1270" frameX="-320" frameY="-238" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0006" x="0" y="1308" width="879" height="1272" frameX="-322" frameY="-241" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 left0007" x="0" y="1308" width="879" height="1272" frameX="-322" frameY="-241" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0000" x="1598" y="3803" width="840" height="1131" frameX="-434" frameY="-262" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0001" x="1598" y="3803" width="840" height="1131" frameX="-434" frameY="-262" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0002" x="2438" y="3803" width="810" height="1083" frameX="-433" frameY="-307" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0003" x="2438" y="3803" width="810" height="1083" frameX="-433" frameY="-307" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0004" x="3248" y="3803" width="796" height="1031" frameX="-422" frameY="-352" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0005" x="3248" y="3803" width="796" height="1031" frameX="-422" frameY="-352" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0006" x="4044" y="3803" width="799" height="979" frameX="-420" frameY="-399" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="DocumicPhase2 down0007" x="4044" y="3803" width="799" height="979" frameX="-420" frameY="-399" frameWidth="1600" frameHeight="1600" />
+</TextureAtlas>
